@@ -1,12 +1,4 @@
 # hello-world
 Just simple repository
 
-THis test
-<code>
-#include <iostream>
-using namespace std;
-
-int main()
-{
-}
-</code>
+This is my first hello world
